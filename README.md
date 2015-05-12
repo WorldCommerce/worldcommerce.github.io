@@ -1,3 +1,3 @@
 worldcommerce.github.io
 =======================
-WorldCommerce GitHub homepage.
+World Commerce GitHub homepage.
